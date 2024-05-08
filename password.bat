@@ -1,0 +1,1 @@
+netsh wlan show profile "Assassin's creed" key=clear
